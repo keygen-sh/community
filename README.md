@@ -1,3 +1,3 @@
-# Discussions
+# Community
 
-Start here: [https://github.com/keygen-sh/discussions](https://github.com/keygen-sh/discussions)
+Start here: [https://github.com/keygen-sh/community/discussions](https://github.com/keygen-sh/community/discussions)
